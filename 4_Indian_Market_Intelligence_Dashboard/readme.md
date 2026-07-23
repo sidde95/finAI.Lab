@@ -11,3 +11,26 @@
 8. Acts as the central information hub for later AI systems.
 9. Enables better market monitoring.
 10. Supports faster investment decisions.
+---
+
+## Technology Stack
+
+| Category | Technologies |
+|---|---|
+| Frontend | React, TypeScript, Vite |
+| UI Components | Tailwind CSS, shadcn/ui |
+| Charts | Recharts, TradingView Lightweight Charts |
+| Backend | Python, FastAPI |
+| Indian Market Data | Upstox API |
+| Historical Market Data | yfinance |
+| Data Processing | Pandas, Polars |
+| Database | PostgreSQL |
+| Time-Series Database | TimescaleDB |
+| Cache | Redis |
+| Live Updates | FastAPI WebSockets |
+| Data Visualization | Plotly |
+| Metrics | Prometheus |
+| Monitoring Dashboards | Grafana |
+| Error Tracking | Sentry |
+| Testing | Pytest, HTTPX, Playwright |
+| CI/CD | GitHub Actions |

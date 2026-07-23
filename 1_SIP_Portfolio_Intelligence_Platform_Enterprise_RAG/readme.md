@@ -11,3 +11,32 @@
 8. Centralizes investment documents into one searchable knowledge base.
 9. Generates the AI -powered investment insights and summaries.
 10. Improves investor confidence through explainable recommendations.
+---
+
+## 🛠️ Technology Stack
+
+| Category | Technologies |
+|----------|--------------|
+| Frontend | React, TypeScript, Vite, Tailwind CSS |
+| UI Components | shadcn/ui |
+| Charts | Recharts |
+| Backend | Python, FastAPI |
+| API Validation | Pydantic |
+| ORM | SQLAlchemy |
+| Database | PostgreSQL |
+| Database Migration | Alembic |
+| Vector Database | pgvector |
+| Cache | Redis |
+| Background Jobs | Celery |
+| Authentication | JWT, OAuth 2.0, RBAC |
+| Document Processing | PyMuPDF, python-docx, openpyxl, Unstructured |
+| RAG Framework | LangChain |
+| Embeddings | OpenAI Embeddings / Sentence Transformers |
+| LLM | OpenAI / Anthropic / Gemini |
+| Search | Hybrid Search (Full-text + Vector Search) |
+| Reranking | Cross Encoder |
+| AI Evaluation | RAGAS, DeepEval |
+| AI Observability | Langfuse |
+| Testing | Pytest, HTTPX, Playwright |
+| Containerization | Docker, Docker Compose |
+| CI/CD | GitHub Actions |

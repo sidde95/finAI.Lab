@@ -22,6 +22,34 @@ This document provides a consolidated overview of the technology stack used acro
 ---
 
 <img width="1090" height="727" alt="image" src="https://github.com/user-attachments/assets/ba575d02-2e81-4794-8b42-d27133003af0" />
+---
 
+## Capability Coverage
 
+These projects showcase expertise across **full-stack development, AI engineering, financial systems, data engineering, and distributed architectures**.
+
+| Capability | Portfolio Evidence |
+|------------|--------------------|
+| **Full-Stack Development** | Projects **1–5** |
+| **Enterprise Retrieval-Augmented Generation (RAG)** | Project **1** |
+| **Financial Modelling** | Project **2** |
+| **AI-Assisted Analytics** | Projects **3–5** |
+| **External API Integration** | Projects **4–5** |
+| **Multi-Agent AI Systems** | Project **6** |
+| **AI Observability & Evaluation** | Project **6** |
+| **Model Context Protocol (MCP) & AI Interoperability** | Project **7** |
+| **Data Engineering** | Project **8** |
+| **Event-Driven Systems** | Project **9** |
+| **Real-Time Data Streaming** | Project **10** |
+| **Distributed System Architecture** | Projects **8–10** |
+---
+
+### Simplified View
+<img width="660" height="584" alt="image" src="https://github.com/user-attachments/assets/3e4dbd0d-8cbb-4ecb-a995-0b3fbc024f70" />
+
+---
+
+## Portfolio Outcome
+
+This capability matrix demonstrates a progressive learning journey—from building production-ready full-stack applications to designing scalable AI platforms, financial data systems, and distributed streaming architectures. It provides clear evidence of practical experience aligned with modern software engineering and AI engineering roles.
 The portfolio demonstrates expertise across the full software development lifecycle—from backend APIs and frontend applications to AI systems, data platforms, and real-time streaming infrastructure.

@@ -13,10 +13,10 @@
 10. Improves investor confidence through explainable recommendations.
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Category | Technologies |
-|----------|--------------|
+|---|---|
 | Frontend | React, TypeScript, Vite, Tailwind CSS |
 | UI Components | shadcn/ui |
 | Charts | Recharts |
@@ -24,19 +24,18 @@
 | API Validation | Pydantic |
 | ORM | SQLAlchemy |
 | Database | PostgreSQL |
-| Database Migration | Alembic |
-| Vector Database | pgvector |
+| Database Migrations | Alembic |
+| Vector Search | pgvector |
 | Cache | Redis |
-| Background Jobs | Celery |
 | Authentication | JWT, OAuth 2.0, RBAC |
 | Document Processing | PyMuPDF, python-docx, openpyxl, Unstructured |
 | RAG Framework | LangChain |
 | Embeddings | OpenAI Embeddings / Sentence Transformers |
-| LLM | OpenAI / Anthropic / Gemini |
-| Search | Hybrid Search (Full-text + Vector Search) |
-| Reranking | Cross Encoder |
+| LLM Providers | OpenAI / Anthropic / Gemini |
+| Search | PostgreSQL Full-Text Search, Vector Search |
+| Reranking | Cross-Encoder Reranker |
 | AI Evaluation | RAGAS, DeepEval |
 | AI Observability | Langfuse |
-| Testing | Pytest, HTTPX, Playwright |
-| Containerization | Docker, Docker Compose |
+| API Testing | Pytest, HTTPX |
+| Frontend Testing | Vitest, Playwright |
 | CI/CD | GitHub Actions |

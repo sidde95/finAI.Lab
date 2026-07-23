@@ -1,5 +1,4 @@
 # Kafka Streaming Analytics Platform
----
 
 ## Business Case - 
 1. Processess high volumes of events in real time.
